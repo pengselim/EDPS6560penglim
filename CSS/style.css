@@ -1,5 +1,7 @@
-body {background-color: slategray;}
+body {background-color: whitesmoke;}
 
+    
+}
 p {color: aliceblue
     
 }
@@ -12,7 +14,6 @@ img {
    border:1px solid #021a40;
    background-color:#777777;
 }
-
 
 /*Type of CSS selectors */
 span{
@@ -28,16 +29,16 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: green;
+  color: lightsteelblue;
 }
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
+  color: darkredA;
 }
 
 /* selected link */
 a:active {
-  color: blue;
+  color: midnightblue;
 } 
 
