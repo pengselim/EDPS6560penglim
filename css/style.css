@@ -1,0 +1,56 @@
+body {background-color: whitesmoke;}
+
+    
+}
+p {color: aliceblue
+    
+}
+
+#nav_cus_1 { font-weight: bold;
+    position:sticky
+}
+
+img {
+   padding:1px;
+   border:1px solid #021a40;
+   background-color:#777777;
+}
+
+.box{
+    float:left;
+    margin-right:20px;
+}
+.clear{
+    clear:both;
+}
+
+
+
+/*Type of CSS selectors */
+span{
+    color: ghostwhite;
+}
+
+
+/*Selecting elements of a certain state*/
+ /* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: lightsteelblue;
+}
+
+/* mouse over link */
+a:hover {
+  color: darkredA;
+}
+
+/* selected link */
+a:active {
+  color: midnightblue;
+} 
+
+
